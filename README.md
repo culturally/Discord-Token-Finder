@@ -4,3 +4,4 @@ Basic Simple Discord Token Finder (half)
 This tool can´t find whole token, also you just need to understand how discord tokens are created
 # Setup
 Run the tool in python3 and paste User ID in command prompt.
+![example](https://github.com/endowedtao/Steam-Hour-Booster/blob/main/example.JPG)
